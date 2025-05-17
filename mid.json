@@ -4,15 +4,15 @@
             "name": "Malzahar",
             "lane": "mid",
             "startDate": "17-05-2025",
-            "win": 1,
-            "lose": 1,
+            "win": 2,
+            "lose": 2,
             "matchups": [
                 {
                     "vex": {
                         "game-1": {
                             "win": 0,
                             "lose": 1,
-                            "anormal": "jg quit",
+                            "anormal": "jg quit!!!",
                             "dificultLane": "medium",
                             "date": "17-05-2025",
                             "kda": "3/0/1"
@@ -36,6 +36,16 @@
                             "dificultLane": "easy",
                             "date": "17/05/2025",
                             "kda": "10/5/12"
+                        }
+                    },
+                    "velkoz": {
+                        "game-1": {
+                            "win": 0,
+                            "lose": 1,
+                            "anormal": "jg quit!!!",
+                            "dificultLane": "none",
+                            "date": "17/05/2025",
+                            "kda": "0/0/0"
                         }
                     }
                 }
