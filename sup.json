@@ -6,6 +6,13 @@
             "startDate": "17-05-2025",
             "win": 1,
             "lose": 0
+        },
+        "lulu": {
+            "name": "Lulu",
+            "lane": "sup",
+            "startDate": "17-05-2025",
+            "win": 0,
+            "lose": 0
         }
     }
 ]
