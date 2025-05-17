@@ -27,6 +27,16 @@
                             "date": "17/05/2025",
                             "kda": "9/1/7"
                         }
+                    },
+                    "veigar": {
+                        "game-1": {
+                            "win": 1,
+                            "lose": 0,
+                            "anormal": "none",
+                            "dificultLane": "easy",
+                            "date": "17/05/2025",
+                            "kda": "10/5/12"
+                        }
                     }
                 }
             ]
